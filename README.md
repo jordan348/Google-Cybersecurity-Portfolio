@@ -17,7 +17,7 @@ This course covered topics such as:
 - Risk management
 - Threat analysis
 - Network security
--Incident response
+- Incident response
 
 It taught me new technical skills in:
 
@@ -42,11 +42,11 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <b>Connect and Protect: Networks and Network Security - ✔️</b>
 
-- NIST Incident Report Analysis
+- Incident Report network traffic Analysis
 
 <b> Tools of the Trade: Linux & SQL - ✔️ </b>
 
-- Manage File Permissions Linux
+- Linux portfolio project
 - SQL Portfolio Project
 
 <b> Assets, Threats, and Vulnerabilities - ✔️ </b>

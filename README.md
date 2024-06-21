@@ -37,7 +37,7 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <b> Play It Safe: Manage Security Risks - ✔️</b>
 
-- Botium Toys Audit
+- Botium Toys_Scope Audit
 - Controls and Compliance Checklist
 
 <b>Connect and Protect: Networks and Network Security - ✔️</b>
@@ -47,7 +47,7 @@ And I was able to brush up on a lot of fundamental information and develop even 
 <b> Tools of the Trade: Linux & SQL - ✔️ </b>
 
 - Manage File Permissions Linux
-- Apply Filters to SQL Queries
+- SQL Portfolio Project
 
 <b> Assets, Threats, and Vulnerabilities - ✔️ </b>
 
@@ -59,4 +59,4 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <b> Automate Cybersecurity Tasks with Python - ✔️ </b>
 
-- Update Files through a Python Algorithm
+- Python Algorithm portfolio project

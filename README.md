@@ -38,16 +38,10 @@ And I was able to brush up on a lot of fundamental information and develop even 
 <b> Play It Safe: Manage Security Risks - ✔️</b>
 
 - Botium Toys Audit
-- Compliance Checklist
-- Controls Assesment Checklist/Priority
-- Stakeholders Memorandum
+- Controls and Compliance Checklist
 
 <b>Connect and Protect: Networks and Network Security - ✔️</b>
 
-- Analyze Network Attacks
-- Analysis of Network Hardening
-- Analyze Network Layer Communications
-- Apply OS Hardening Techniques
 - NIST Incident Report Analysis
 
 <b> Tools of the Trade: Linux & SQL - ✔️ </b>
@@ -57,12 +51,11 @@ And I was able to brush up on a lot of fundamental information and develop even 
 
 <b> Assets, Threats, and Vulnerabilities - ✔️ </b>
 
-- Analyze a Vulnerable System for a Small Business
+- Vulnerability assessment report
 
 <b> Sound the Alarm: Detection and Response - ✔️ </b>
 
-- Document Incident Handler's Journal (with template)
-- Finalize Incident Handler's Journal
+- Incident Handler's Journal (Contains Wireshark and tcpdump)
 
 <b> Automate Cybersecurity Tasks with Python - ✔️ </b>
 
